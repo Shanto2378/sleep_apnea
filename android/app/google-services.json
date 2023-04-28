@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660831772298",
+    "project_id": "sleepapneacs",
+    "storage_bucket": "sleepapneacs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660831772298:android:462dbe168865f9de841773",
+        "android_client_info": {
+          "package_name": "com.example.apneatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660831772298-jd95vo7c1oak02h7q6g09ehf6ar9os7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_QeASOZhL8wK1STZBs0aD1cpcGF1oa8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660831772298-jd95vo7c1oak02h7q6g09ehf6ar9os7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
